@@ -1,6 +1,0 @@
-Wejscie do gry wygląda w taki sposób
-poprostu klikasz MAIN tam masz główną grę pozdrawiam :3
-
-JEŻELI GRA NIE DZIAŁA NALEŻY POBRAĆ ROZSZERZENIE PYGAMES W VISUAL STUDIO CODE 
-POZDRAWIAM 
-61C4E35591F7DD2927F537FE5E
